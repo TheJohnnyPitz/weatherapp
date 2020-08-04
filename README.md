@@ -1,0 +1,3 @@
+This is a simple weather app where you simply type in a city name and it shows you the temoperature. I followed this tutorial https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b by Brandon Morelli to create the web app so all credit to him for creating the app. However, I converted it from using the request library (deprecated) to the unirest library (not deprecated) on my own.
+
+In the future I may make some formatting changes to this app and make it do more than just show the temperature, but for now it is just a simple weather app meant to help increase my knowledge of working with APIs. 
